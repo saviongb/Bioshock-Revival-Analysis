@@ -1039,27 +1039,6 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 14,
-   "id": "c7d547e0-b3f1-42fe-9e4b-5fc3a802438c",
-   "metadata": {},
-   "outputs": [
-    {
-     "ename": "SyntaxError",
-     "evalue": "invalid syntax (1731615873.py, line 1)",
-     "output_type": "error",
-     "traceback": [
-      "  \u001b[36mCell\u001b[39m\u001b[36m \u001b[39m\u001b[32mIn[14]\u001b[39m\u001b[32m, line 1\u001b[39m\n\u001b[31m    \u001b[39m\u001b[31mgit add .\u001b[39m\n        ^\n\u001b[31mSyntaxError\u001b[39m\u001b[31m:\u001b[39m invalid syntax\n"
-     ]
-    }
-   ],
-   "source": [
-    "git add .\n",
-    "git commit -m \"Fetch complete: all three review corpora saved\"\n",
-    "git push"
-   ]
-  },
-  {
-   "cell_type": "code",
    "execution_count": null,
    "id": "7a2c48c7-e17a-40b1-921e-f44091a78599",
    "metadata": {},
