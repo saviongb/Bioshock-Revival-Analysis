@@ -1,4 +1,4 @@
-# Return to Rapture: A Revival Strategy for BioShock
+# Bioshock: What Players Value - a data driven analysis of reception, and what it could mean for the future.
 
 Data-driven analysis of what players most valued across BioShock 1, 2,
 and Infinite — and what 2K should protect in the next entry.
