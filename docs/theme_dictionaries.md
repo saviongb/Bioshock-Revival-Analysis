@@ -8,411 +8,51 @@ Matching: case-insensitive, whole-word/phrase boundaries. Inflected forms listed
 
 Narrative:
 
-
-
-Twist
-
-Would you kindly
-
-Betrayal
-
-Obedience
-
-Protector
-
-Flashback
-
-Redemption
-
-Timeline
-
-Multiverse
-
-Realities
-
-Constants
-
-Genes
-
-Genetic engineering
-
-Gene altering
-
-Autonomy
-
-Agency
-
-Conditioned
-
-Kidnapping
-
-Storytelling
-
-Narrative
-
-Writing
-
-Dialogue
-
-Story
-
-Plot
-
-Ending
-
-ludonarrative
-
-
-
-
-
-
-
-
+twist, would you kindly, betrayal, obedience, protector, flashback, redemption, timeline, multiverse, realities, constants, genes, genetic engineering, gene altering, autonomy, agency, conditioned, kidnapping, storytelling, narrative, writing, dialogue, story, plot, ending
 
 
 
 Setting:
 
-Rapture
-
-Underwater
-
-City
-
-Art Deco
-
-Retro
-
-Theatre
-
-Columbia
-
-Floating
-
-Sky
-
-Americana
-
-Steampunk
-
-Utopia
-
-Environment
-
-Architecture
-
-Dystopian
-
-Ocean
-
-Ruins
-
-Aesthetic
-
-Lighthouse
-
-Pavilion
-
-Arcadia
-
-Prometheus
-
-Amusements
-
-
+rapture, underwater, city, art deco, retro, theatre, columbia, floating, sky, americana, steampunk, utopia, environment, architecture, dystopian, ocean, ruins, aesthetic, lighthouse, pavilion, arcadia, prometheus, amusements
 
 
 
 Atmosphere:
 
-Horror
-
-Eerie
-
-Scary
-
-Tense
-
-Immersive
-
-Uncomfortable
-
-Disturbing
-
-Mystery
-
-Dread
-
-Claustrophobic
-
-Twisted
-
-Unsettling
-
-
+horror, eerie, scary, tense, immersive, uncomfortable, disturbing, mystery, dread, claustrophobic, twisted, unsettling
 
 
 
 Characters:
 
-Jack
-
-Ryan
-
-Atlas
-
-Fontaine
-
-Tenenbaum
-
-Cohen
-
-Little sister
-
-Daddies
-
-daddy
-
-Splicer
-
-Delta
-
-Eleanor
-
-Lamb
-
-Sofia
-
-Sinclair
-
-Grace
-
-Big sister
-
-Poole
-
-Booker
-
-Elizabeth
-
-Comstock
-
-Songbird
-
-Twins
-
-Daisy
-
-Turrets
-
-Mosquito
-
-Zeppelin
-
-Barrage
-
-Handyman
-
-Fireman
-
-Zealot
-
-Motorized patriot
-
-Siren
-
-Boy of silence
-
-Lutece
-
-suchong
+jack, ryan, atlas, fontaine, tenenbaum, cohen, little sister, daddies, daddy, splicer, delta, eleanor, lamb, sofia, sinclair, grace, big sister, poole, booker, elizabeth, comstock, songbird, twins, daisy, turrets, mosquito, zeppelin, barrage, handyman, fireman, zealot, motorized patriot, siren, boy of silence, lutece, suchong
 
 
 
 Combat:
 
-Plasmids
-
-Combat
-
-movement
-
-Quantum tear
-
-Weapons
-
-Gunplay
-
-Shooting
-
-vigors
-
-Guns
-
-Wrench
-
-Research camera
-
-Drill
-
-Rivet
-
-Hack
-
-Sky-hook
-
-ADAM
-
-EVE
-
-Tonics
-
-Difficulty
+plasmids, combat, movement, quantum tear, weapons, gunplay, shooting, vigors, guns, wrench, research camera, drill, rivet, hack, sky-hook, adam, eve, tonics, difficulty
 
 
 
 Ideology:
 
-Capitalism
+capitalism, greed, individualism, free will, wealth disparity, exploitation, slavery, selfishness, political, religious, religion, oppression, collectivism, utilitarianism, exceptionalism, communism, police state, ayn rand, authoritarian, right wing, morality, objectivism, racism, nationalism
 
-Greed
 
-individualism
 
-Free will
+Visual\_audio:
 
-Wealth disparity
+lighting, audio, graphics, music, voice acting, sound design, style, soundtrack
 
-Exploitation
 
-Slavery
 
-Selfishness
+Technical:
 
-Political
+crash, stutter, performance, port, patch, fov, mouse, bugs, optimization, fps, controls, resolution, freezing, freeze, glitching, glitch, glitches, crashes, crashed, crashing, laggy
 
-Religious
 
-Religion
 
-Oppression
-
-Collectivism
-
-Utilitarianism
-
-Exceptionalism
-
-Communism
-
-Police state
-
-Ayn rand
-
-Authoritarian
-
-Right wing
-
-Morality
-
-Objectivism
-
-Racism
-
-nationalism
-
-
-
-Visual/Audio:
-
-Lighting
-
-Audio
-
-Graphics
-
-Music
-
-Voice acting
-
-Sound design
-
-Style
-
-Soundtrack
-
-
-
-
-
-Technical performance:
-
-Crash
-
-Stutter
-
-Performance
-
-Port
-
-Patch
-
-Fov
-
-mouse
-
-Bugs
-
-Optimization
-
-Fps
-
-controls
-
-Resolution
-
-Freezing
-
-freeze
-
-Glitching
-
-Glitch
-
-Glitches
-
-Crashes
-
-Crashed
-
-crashing
-
-laggy
-
-
-
-Pacing/Length:
-
-Repetitive
-
-Short
-
-Long
-
-Boring
-
-Tedious
-
-Replayability
-
-backtrack
-
-Drags
-
-Filler
-
-Padding
-
-
+Pacing: repetitive, short, long, boring, tedious, replayability, backtrack, drags, filler, padding
 
