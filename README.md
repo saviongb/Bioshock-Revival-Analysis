@@ -12,7 +12,7 @@ Before sourcing the data or performing analysis, I wrote six predictions based o
 
 The deliverable is a slide deck summarizing key findings. The analysis behind it is within the GitHub.
 
-**[Read the deck (PDF)](deck/BioShock%20Deck%20Final.pdf)**
+**[Read the deck (PDF)](deck/BioShock%20Final%20Deck.pdf)**
 
 ## What I found
 
