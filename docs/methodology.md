@@ -1,4 +1,4 @@
-\## Dictionary validation
+\# Dictionary validation
 
 
 
@@ -34,7 +34,7 @@ the share of genuine discussions the dictionary flags.
 
 
 
-\### Dictionary size and recall
+\## Dictionary size and recall
 
 
 
@@ -48,7 +48,7 @@ across themes.
 
 
 
-\### Theme-level limitations
+\## Theme-level limitations
 
 
 
