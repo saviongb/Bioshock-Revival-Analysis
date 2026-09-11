@@ -12,8 +12,6 @@ the share of genuine discussions the dictionary flags.
 
 | Theme | Terms | Precision | Recall |
 
-|---|---|---|---|
-
 | narrative | 25 | .87 | .93 |
 
 | technical | 21 | .91 | .58 |
@@ -52,13 +50,13 @@ across themes.
 
 
 
-\*\*Narrative\*\* is the best-validated theme, with high precision and the highest recall
+**Narrative** is the best-validated theme, with high precision and the highest recall
 
 recorded. Findings resting on narrative salience are the most secure in the analysis.
 
 
 
-\*\*Technical\*\* shows high precision at .91 but recall of .58, meaning roughly four in
+**Technical** shows high precision at .91 but recall of .58, meaning roughly four in
 
 ten technical complaints go uncounted. This undercount strengthens rather than weakens
 
@@ -68,7 +66,7 @@ the true rate is higher than the figure reported.
 
 
 
-\*\*Combat\*\* records perfect precision across the sample, with no observed contamination
+**Combat** records perfect precision across the sample, with no observed contamination
 
 from ambiguous terms such as adam and eve. Recall of .57
 
@@ -76,7 +74,7 @@ means the dictionary undercounts, so combat figures are conservative.
 
 
 
-\*\*Pacing\*\* is the weakest validated theme, at .50 precision and .40 recall on only five
+**Pacing** is the weakest validated theme, at .50 precision and .40 recall on only five
 
 positive cases. The sample is too small to characterize performance with confidence.
 
@@ -84,13 +82,13 @@ Findings involving pacing are reported with this limitation attached.
 
 
 
-\*\*Setting\*\* and \*\*visual\_audio\*\* undercount substantially, at .50 and .25 recall.
+**Setting** and \*\*visual\_audio\*\* undercount substantially, at .50 and .25 recall.
 
 Both are reported as indicative only.
 
 
 
-\*\*Ideology\*\* appeared in two reviews in the sample, too few to measure precision or
+**Ideology** appeared in two reviews in the sample, too few to measure precision or
 
 recall. No claim is made about instrument performance for this theme. The low
 
