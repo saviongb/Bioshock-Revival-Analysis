@@ -1,4 +1,4 @@
-Findings Memo: BioShock Trilogy Analysis
+\### Findings Memo: BioShock Trilogy Analysis
 
 August 14th, 2026
 
@@ -12,7 +12,7 @@ Method: keyword dictionaries created for nine themes - narrative, setting, atmos
 
 
 
-What do BioShock reviews talk about?
+\### Finding 1
 
 Narrative is the franchises most consistently reviewed theme, revealing a large part of what players discuss when critiquing BioShock. Narrative is the only theme mentioned in at least 20% of reviews across all three BioShock games. Of the verdict split for BioShock 1 and 2, findings are similar B1: 27.6% of positive reviews mention narrative compared to 10.6% negative. B2: 28.3% of positive reviews mention narrative compared to 11.9% negative. For Bioshock Infinite, figures nearly equal with 40.6% of positive reviews mentioning narrative and 38.4% of negative. It is important to note that technical performance is mentioned in 24.6% of B1 reviews, and 40.3% of B2 reviews, although we can attribute this to issues with the remaster covered in finding 2. Additionally, mentions of narrative rise with playtime across all games (brief(<2h), moderate(2-12h), extended(12h+). B1: 10-32.6, B2:10-31.9, Infinite: 23.3-44.4. Reviews mentioning narrative rise after launch with Bioshock 1 and 2, although decrease with infinite from 43.9% to 39.8%. Narrative was the strongest theme tested in validation with a precision of 87% and recall of 93%.  It is important to note that this aspect of the analysis only captures how often certain themes were discussed, rather than how they felt about the themes themself.
 
@@ -20,17 +20,19 @@ Narrative is the franchises most consistently reviewed theme, revealing a large 
 
 
 
-Port/Remaster Problems?
+\### Finding 2
 
 Negative reviews in Remastered titles are largely a technical performance problem. Technical performance is mentioned in 25.0% of Bioshock 1 reviews and 40.3% of Bioshock 2 reviews. This is notably higher than the 7.7% mentioned in Infinite. As for the verdict split, of Bioshock 1 negative reviews, 60.5% mention technical compared to 17.2% for positive. Of Bioshock 2 negative reviews, 75.3% mention technical compared to 26% positive. For infinite, 12% of negative reviews mention technical compared to 7.3% for positive. Bioshock 1 and 2 both saw technical performance being discussed at over 60% at launch, dropping to 19.5% for Bioshock 1 after 12 months. Bioshock 2’s technical theme continued to be mentioned at 37.9% even during later eras. Technical performance mentions trended down slightly as playtime increased across remastered titles and remained relatively stable across infinite. Technical had a precision of 91% in validation testing and a recall of 58%. The recall indicates findings could have undersold the amount of technical mentions due to missing phrases in the dictionary such as “Unplayable”. This finding confirms our part of our hypothesis about BioShock 2, in that negative reviews will highlight technical stability.
 
 
 
-
+\### Finding 3
 
 Positive reviews rose as time passed and with player hours, with the exception of Infinite's later era drop. BioShocks 1’s positive reviews at launch were 50.8%, compared to 86.4% in the later era (12 months post remaster release for 1 and 2). BioShock 2 had a similar rise at 42.5% positive reviews at launch, to 73.6% at the later era. Infinite’s positive reviews were notably higher at launch with 94.9%, with the only decline in the later era to 90.5% . Time played was measured as brief (<2h), moderate (2-12h), extended (12h+). BioShock 1: 42.6%-81.9%-90.9%. BioShock 2: 34.5%-69.4%-81.1%. BioShock Infinite: 74.9%-91.1%-92.2%. A sharp initial jump for all BioShock games as in game hours rise from brief to moderate, followed by another small rise for the extended group. It is worth noting that the era groups often represent different populations, not reviewers changing course over time.
 
 
+
+\### Finding 4
 
 Infinite's critics discuss combat and pacing in more negative reviews than other Bioshock titles. Unlike Bioshock 1 and 2, Bioshock Infinite reviews mention combat more often in negative reviews than positive. B1: 8% of negative reviews, 10.5% of positive. B2: 7.9% of negative reviews, 15.4% of positive. Infinite: 23.6% of negative reviews, 12.2% positive. A relatively low and balanced mention of pacing with Bioshock 1 and 2 at around 5% for both positive and negative reviews. With infinite, pacing is mentioned in 19% of negative reviews and 6.3% of positive reviews. It is important to note that this is the only measure that tested this finding. Additionally, with infinites, 91.1% positive review base, the negative pool gives a smaller sample size. Precision was 100% for combat with recall at 57%, meaning nearly half of the combat discussion was missed. As for pacing, precision tested at 50% with recall at 40%. These findings confirm part of our hypothesis that negative reviews would concentrate on mechanical aspects.
 
@@ -70,7 +72,7 @@ Notes: Predictions were based on a playthrough with an optimal system/console po
 
 
 
-Limitations:
+\### Limitations:
 
 The instrument counts how often a theme is mentioned across reviews, measuring attention rather than true sentiment. For example, a negative review may be praising a certain theme while criticising another, although these would both capture attention in negative reviews.
 

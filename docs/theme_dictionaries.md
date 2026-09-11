@@ -1,4 +1,4 @@
-Bioshock theme detection
+\### Bioshock theme detection
 
 
 
@@ -54,5 +54,7 @@ crash, stutter, performance, port, patch, fov, mouse, bugs, optimization, fps, c
 
 
 
-Pacing: repetitive, short, long, boring, tedious, replayability, backtrack, drags, filler, padding
+Pacing: 
+
+repetitive, short, long, boring, tedious, replayability, backtrack, drags, filler, padding
 
