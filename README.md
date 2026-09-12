@@ -5,12 +5,12 @@ the next entry should protect.
 
 ## What this is
 
-I analyzed 85,395 English language Steam reviews across BioShock Remastered,
-BioShock 2 Remastered, and BioShock Infinite to find out which themes were leading discussion, and if reception had changed over time.
+Analyzed 85,395 English language Steam reviews across BioShock Remastered,
+BioShock 2 Remastered, and BioShock Infinite to find out which themes were leading discussion, verdicts and if reception had changed over time.
 
 Before sourcing the data or performing analysis, I wrote six predictions based on my personal playthroughs, then committed them to the GitHub under Impressions_and_Hypothesis. The predictions were then graded against the results: one confirmed, four partially confirmed, one not confirmed.
 
-The deliverable is a slide deck summarizing key findings. The analysis behind it is within the GitHub.
+The deliverable is a slide deck summarizing key findings. The analysis behind it is in the GitHub.
 
 **[Read the deck (PDF)](deck/BioShock%20Final%20Deck.pdf)**
 
